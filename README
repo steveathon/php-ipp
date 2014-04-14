@@ -1,0 +1,17 @@
+HERE BE DRAGONS
+
+This is a fork of the PHP IPP System that was built by Thomas Harding.
+
+The last published version of the client was 0.83 which was published in
+2010 and is now out of date. The purpose of this refresh is to take stock
+of what has been done to date and, where possible, to update the codebase
+with new features and settings.
+
+Original readme is now at README_083-1.txt
+
+License Status
+
+See LICENSE, as the repo is currently under review, the original license
+is maintained and moved to the LICENSE file (from COPYING). Please note, 
+that this will be updated and reviewed as per the changes we make and 
+wher required these terms will be adhered to and retained. 
